@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column VehicleId in table [dbo].[ModelDetails] is currently  NCHAR (10) NULL but is being changed to  INT
+         NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  INT
+         NULL.
+
+** User actions
+     Alter
+       [dbo].[ModelDetails] (Table)
+     Create
+       [dbo].[FK_ModelDetails_ToTable] (Foreign Key)
+       [dbo].[FK_SoldCars_ToTable] (Foreign Key)
+       [dbo].[FK_SoldCars_Vehicles] (Foreign Key)
+
+** Supporting actions
+
+The type for column VehicleId in table [dbo].[ModelDetails] is currently  NCHAR (10) NULL but is being changed to  INT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  INT NULL.
+

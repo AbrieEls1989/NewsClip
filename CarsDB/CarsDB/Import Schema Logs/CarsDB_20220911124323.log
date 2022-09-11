@@ -1,0 +1,85 @@
+2022/09/11 14:43:23	This log contains information about the import schema operation into project 'CarsDB' on computer 'LAPTOP-V5BRK3OO' by user 'abrie'.
+2022/09/11 14:43:23	Import of database schema has started.
+2022/09/11 14:43:50	Gathering database credentials
+2022/09/11 14:43:50	Gathering database options
+2022/09/11 14:43:50	Gathering generic database scoped configuration option
+2022/09/11 14:43:50	Gathering users
+2022/09/11 14:43:50	Gathering roles
+2022/09/11 14:43:51	Gathering application roles
+2022/09/11 14:43:51	Gathering role memberships
+2022/09/11 14:43:51	Gathering filegroups
+2022/09/11 14:43:51	Gathering full-text catalogs
+2022/09/11 14:43:51	Gathering assemblies
+2022/09/11 14:43:51	Gathering certificates
+2022/09/11 14:43:51	Gathering asymmetric keys
+2022/09/11 14:43:51	Gathering symmetric keys
+2022/09/11 14:43:51	Gathering encrypted symmetric keys
+2022/09/11 14:43:51	Gathering schemas
+2022/09/11 14:43:51	Gathering XML schema collections
+2022/09/11 14:43:51	Gathering user-defined data types
+2022/09/11 14:43:51	Gathering user-defined types
+2022/09/11 14:43:51	Gathering table types
+2022/09/11 14:43:51	Gathering unique keys for table types
+2022/09/11 14:43:51	Gathering primary keys for table types
+2022/09/11 14:43:51	Gathering indexes for table types
+2022/09/11 14:44:06	Gathering check constraints for table types
+2022/09/11 14:44:06	Gathering default constraints for table types
+2022/09/11 14:44:06	Gathering partition functions
+2022/09/11 14:44:06	Gathering partition schemes
+2022/09/11 14:44:06	Gathering functions
+2022/09/11 14:44:06	Gathering encrypted functions
+2022/09/11 14:44:06	Gathering aggregates
+2022/09/11 14:44:06	Gathering procedures
+2022/09/11 14:44:06	Gathering encrypted procedures
+2022/09/11 14:44:06	Gathering tables
+2022/09/11 14:44:06	Gathering primary keys
+2022/09/11 14:44:06	Gathering unique constraints
+2022/09/11 14:44:06	Gathering foreign keys
+2022/09/11 14:44:06	Gathering default constraints
+2022/09/11 14:44:06	Gathering check constraints
+2022/09/11 14:44:06	Gathering views
+2022/09/11 14:44:06	Gathering encrypted views
+2022/09/11 14:44:06	Gathering indexes
+2022/09/11 14:44:06	Gathering statistics
+2022/09/11 14:44:06	Gathering full-text index stoplists
+2022/09/11 14:44:06	Gathering search property lists
+2022/09/11 14:44:06	Gathering search properties
+2022/09/11 14:44:06	Gathering full-text indexes
+2022/09/11 14:44:06	Gathering column store indexes
+2022/09/11 14:44:06	Gathering spatial indexes
+2022/09/11 14:44:07	Gathering XML indexes
+2022/09/11 14:44:07	Gathering Selective XML indexes
+2022/09/11 14:44:07	Gathering encrypted triggers
+2022/09/11 14:44:07	Gathering triggers
+2022/09/11 14:44:07	Gathering encrypted and clr ddl triggers
+2022/09/11 14:44:07	Gathering ddl triggers
+2022/09/11 14:44:07	Creating edge constraints
+2022/09/11 14:44:07	Gathering synonyms
+2022/09/11 14:44:07	Gathering defaults
+2022/09/11 14:44:07	Gathering data constraint uddt bindings
+2022/09/11 14:44:07	Gathering rules
+2022/09/11 14:44:07	Gathering data constraint uddt bindings
+2022/09/11 14:44:07	Gathering message types
+2022/09/11 14:44:07	Gathering queues
+2022/09/11 14:44:07	Gathering contracts
+2022/09/11 14:44:07	Gathering services
+2022/09/11 14:44:07	Gathering event notifications
+2022/09/11 14:44:07	Gathering remote service bindings
+2022/09/11 14:44:07	Gathering broker priorities
+2022/09/11 14:44:07	Gathering signatures
+2022/09/11 14:44:07	Gathering data compression options
+2022/09/11 14:44:07	Gathering sequence types
+2022/09/11 14:44:07	Gathering security policies
+2022/09/11 14:44:07	Gather column encryption keys
+2022/09/11 14:44:07	Gathering column master keys
+2022/09/11 14:44:07	Gathering external data sources
+2022/09/11 14:44:07	Gathering external file formats
+2022/09/11 14:44:07	Gathering external tables
+2022/09/11 14:44:07	Gathering extended properties
+2022/09/11 14:44:07	Gathering assemblies
+2022/09/11 14:44:07	Gathering credentials
+2022/09/11 14:44:07	Gathering logins
+2022/09/11 14:44:07	Gathering server audits
+2022/09/11 14:44:07	Finished importing database.
+2022/09/11 14:44:07	A summary of the import was saved to the following location: C:\Users\abrie\source\repos\CarsDB\CarsDB\Import Schema Logs\CarsDB_20220911124323.log
+2022/09/11 14:44:07	Click Finish to continue...

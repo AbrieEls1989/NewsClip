@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APILambda1", "APILambda1\APILambda1.csproj", "{F7A43BFA-0314-489E-B3CD-7C83939EEBA5}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A43BFA-0314-489E-B3CD-7C83939EEBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A43BFA-0314-489E-B3CD-7C83939EEBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A43BFA-0314-489E-B3CD-7C83939EEBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A43BFA-0314-489E-B3CD-7C83939EEBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F50A12F-2445-483D-B232-E3D1A6A7D020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F50A12F-2445-483D-B232-E3D1A6A7D020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F50A12F-2445-483D-B232-E3D1A6A7D020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F50A12F-2445-483D-B232-E3D1A6A7D020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B88EEBBD-E056-4280-B263-18E9FD8F6FFD}
+	EndGlobalSection
+EndGlobal
