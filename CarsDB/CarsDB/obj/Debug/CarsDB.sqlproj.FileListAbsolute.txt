@@ -8,3 +8,13 @@ C:\Users\abrie\source\repos\CarsDB\CarsDB\obj\Debug\postdeploy.sql
 C:\Users\abrie\source\repos\CarsDB\CarsDB\obj\Debug\predeploy.sql
 C:\Users\abrie\source\repos\CarsDB\CarsDB\obj\Debug\CarsDB.dll
 C:\Users\abrie\source\repos\CarsDB\CarsDB\obj\Debug\CarsDB.pdb
+C:\MyDev\Newsclip\CarsDB\CarsDB\bin\Debug\CarsDB.dacpac
+C:\MyDev\Newsclip\CarsDB\CarsDB\bin\Debug\CarsDB.dll
+C:\MyDev\Newsclip\CarsDB\CarsDB\bin\Debug\CarsDB.pdb
+C:\MyDev\Newsclip\CarsDB\CarsDB\obj\Debug\CarsDB.sqlproj.AssemblyReference.cache
+C:\MyDev\Newsclip\CarsDB\CarsDB\obj\Debug\Model.xml
+C:\MyDev\Newsclip\CarsDB\CarsDB\obj\Debug\refactor.xml
+C:\MyDev\Newsclip\CarsDB\CarsDB\obj\Debug\postdeploy.sql
+C:\MyDev\Newsclip\CarsDB\CarsDB\obj\Debug\predeploy.sql
+C:\MyDev\Newsclip\CarsDB\CarsDB\obj\Debug\CarsDB.dll
+C:\MyDev\Newsclip\CarsDB\CarsDB\obj\Debug\CarsDB.pdb

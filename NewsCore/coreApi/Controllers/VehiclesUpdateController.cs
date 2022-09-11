@@ -37,11 +37,12 @@ namespace API.Controllers
             try
             {
                 Conn.Open();
-                string query = "Update Vehicles set    QTY = @QTY ,    Make = @Make ,    Model = @Model  where Id=@Id";
+                string query = "Update Vehicles set    QTY = @QTY ,    Make = @Make ,    Model = @Model ,img = @img where Id=@Id";
                 var cmd = new SqlCommand(query, Conn);
                 cmd.Parameters.AddWithValue(@"QTY", Vehiclesm.QTY);
                 cmd.Parameters.AddWithValue(@"Make", Vehiclesm.Make);
                 cmd.Parameters.AddWithValue(@"Model", Vehiclesm.Model);
+                cmd.Parameters.AddWithValue(@"img", Vehiclesm.Model);
                 cmd.Parameters.AddWithValue(@"Id", Vehiclesm.Id);
                 dt.Load(cmd.ExecuteReader());
                 Conn.Close();

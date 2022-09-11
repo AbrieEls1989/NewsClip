@@ -28,8 +28,8 @@ namespace API.Controllers
 
         [SwaggerResponse(200, "The Vehicles was Selected", typeof(List<Vehicles>))]
         [SwaggerResponse(400, "The Vehicles data is invalid")]
-        [HttpGet]
-        public DataTable Get(FilterModel FilterModelM)
+        [HttpPost]
+        public DataTable Post(FilterModel FilterModelM)
         {
             DataTable dt = new DataTable();
             string connstring = _configuration.GetConnectionString("myDb1");

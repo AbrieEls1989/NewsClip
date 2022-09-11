@@ -26,6 +26,11 @@ namespace Api.Models
             get;
             set;
         }
+        public string img
+        {
+            get;
+            set;
+        }
 
         public string Model
         {

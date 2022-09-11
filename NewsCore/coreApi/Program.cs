@@ -21,6 +21,8 @@ namespace coreApi
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+
                 });
+
     }
 }

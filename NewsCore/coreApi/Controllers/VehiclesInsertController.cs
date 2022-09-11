@@ -38,11 +38,12 @@ namespace API.Controllers
             try
             {
                 Conn.Open();
-                string query = "Insert into  Vehicles(QTY , Make , Model ) Values(@QTY , @Make , @Model );";
+                string query = "Insert into  Vehicles(QTY , Make , Model ,img) Values(@QTY , @Make , @Model,@img );";
                 var cmd = new SqlCommand(query, Conn);
                 cmd.Parameters.AddWithValue(@"QTY", Vehiclesm.QTY);
                 cmd.Parameters.AddWithValue(@"Make", Vehiclesm.Make);
                 cmd.Parameters.AddWithValue(@"Model", Vehiclesm.Model);
+                cmd.Parameters.AddWithValue(@"img", Vehiclesm.Model);
                 dt.Load(cmd.ExecuteReader());
                 Conn.Close();
                 Vehiclesm.errorMessage = "Success";
